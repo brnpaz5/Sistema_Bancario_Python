@@ -13,7 +13,7 @@ saldo = 0
 limite = 500
 extrato = ""
 saques = 0 
-LIMITE_SAQUES = 3
+LIMITE_SAQUES = 10
 
 while True:
     option = input(menu)
